@@ -62,7 +62,7 @@
           <mxGeometry x="240" y="260" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="7SvaxTATenBY4-MYkzS4-29" value="Y" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="510" y="610" width="30" height="30" as="geometry" />
+          <mxGeometry x="490" y="580" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="7SvaxTATenBY4-MYkzS4-30" value="X" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="420" y="580" width="30" height="30" as="geometry" />
@@ -80,7 +80,7 @@
           <mxGeometry x="320" y="500" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="7SvaxTATenBY4-MYkzS4-35" value="Z" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="590" y="610" width="30" height="30" as="geometry" />
+          <mxGeometry x="550" y="580" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="7SvaxTATenBY4-MYkzS4-38" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="7SvaxTATenBY4-MYkzS4-1" target="7SvaxTATenBY4-MYkzS4-8">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
